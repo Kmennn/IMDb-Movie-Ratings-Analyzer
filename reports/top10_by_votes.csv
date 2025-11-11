@@ -1,0 +1,11 @@
+title,year,rating,votes,genres,runtime_min,certificate,directors,imdb_id,url,decade,main_genre
+The Shawshank Redemption,1994,9.3,3118227,Drama,,A,,tt0111161,https://www.imdb.com/title/tt0111161/,1990,Drama
+The Dark Knight,2008,9.1,3094110,"Action, Crime, Drama",,UA,,tt0468569,https://www.imdb.com/title/tt0468569/,2000,Action
+Inception,2010,8.8,2748918,"Action, Adventure, Sci-Fi",,UA,,tt1375666,https://www.imdb.com/title/tt1375666/,2010,Action
+Fight Club,1999,8.8,2533103,"Crime, Drama, Thriller",,A,,tt0137523,https://www.imdb.com/title/tt0137523/,1990,Crime
+Forrest Gump,2014,8.8,2435468,"Drama, Romance",,UA,,tt0109830,https://www.imdb.com/title/tt0109830/,2010,Drama
+Interstellar,2014,8.7,2428231,"Adventure, Drama, Sci-Fi",,UA,,tt0816692,https://www.imdb.com/title/tt0816692/,2010,Adventure
+Pulp Fiction,1994,8.8,2382192,"Crime, Drama",,A,,tt0110912,https://www.imdb.com/title/tt0110912/,1990,Crime
+The Godfather,1972,9.2,2174427,"Crime, Drama",,A,,tt0068646,https://www.imdb.com/title/tt0068646/,1970,Crime
+The Lord of the Rings: The Fellowship of the Ring,2002,8.9,2153608,"Adventure, Drama, Fantasy",,U,,tt0120737,https://www.imdb.com/title/tt0120737/,2000,Adventure
+The Lord of the Rings: The Return of the King,2004,9.0,2117985,"Adventure, Drama, Fantasy",,U,,tt0167260,https://www.imdb.com/title/tt0167260/,2000,Adventure

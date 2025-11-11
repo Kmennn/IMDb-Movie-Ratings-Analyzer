@@ -1,0 +1,18 @@
+{
+  "n_titles": 15,
+  "rating_mean": 8.886666666666667,
+  "rating_median": 8.8,
+  "top_genres": {
+    "Drama": 14,
+    "Crime": 5,
+    "Adventure": 5,
+    "Action": 2,
+    "Sci-Fi": 2,
+    "Fantasy": 2,
+    "Thriller": 2,
+    "Biography": 1,
+    "Western": 1,
+    "History": 1
+  },
+  "n_with_directors": 15
+}
