@@ -1,12 +1,18 @@
+@"
 __pycache__/
 *.py[cod]
-*$py.class
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
+
+# data that can be regenerated
 data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
-src/figures/*
-!src/figures/.gitkeep
+!data/raw/title_ids_sample.txt
+
+# big artifacts (keep figures if you want)
+src/models/*
+"@ | Out-File -Encoding utf8 .gitignore
+
+git add .gitignore
+git commit -m "Add .gitignore"
+git push
